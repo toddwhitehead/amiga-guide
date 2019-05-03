@@ -6,7 +6,9 @@
 1. ACA1233N http://wiki.icomp.de/wiki/ACA1233n
 
 # Sourcing Software
-Amiga OS 3.1.4 http://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/188-amigaos-314
+Amiga OS 3.1.4
+1. Digitial Download Only http://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/188-amigaos-314
+1. Physical Roms and Floppy Disks http://www.hyperion-entertainment.com/index.php/where-to-buy/dealers
 
 # Setup
 
